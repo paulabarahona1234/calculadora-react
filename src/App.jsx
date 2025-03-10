@@ -25,6 +25,7 @@ function App() {
 
   return (
     <div className="App">
+      <h3>CALCULADORA</h3>
       <div className="calculator">
         <div className="display">
           <input type="text" value={input} disabled />
